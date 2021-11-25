@@ -1,11 +1,6 @@
 # Pythons-Essential
 Curso Python Essentials CEC EPN
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 24 18:49:16 2021
 
-@author: darvids
-"""
 print("Darwin Bahamonde")
 print(" ")
 print("PARTE 1")
