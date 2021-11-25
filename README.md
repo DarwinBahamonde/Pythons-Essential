@@ -33,4 +33,3 @@ while numero <= 4:
  
 print("")    
 print("no hay mas interacciones")    
- 
