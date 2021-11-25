@@ -1,6 +1,5 @@
-# Pythons-Essential
-Curso Python Essentials CEC EPN
-
+@author: darvids
+"""
 print("Darwin Bahamonde")
 print(" ")
 print("PARTE 1")
@@ -34,3 +33,4 @@ while numero <= 4:
  
 print("")    
 print("no hay mas interacciones")    
+ 
